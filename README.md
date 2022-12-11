@@ -1,2 +1,1 @@
-# Module-1-Challenge
-Code refactor
+# Code Refactor for Accessibility
